@@ -1,0 +1,22 @@
+{
+  "name": "discord-economy-v14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "cron": "^3.1.6",
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^6.2.1"
+  }
+}
