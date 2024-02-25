@@ -8,7 +8,7 @@ module.exports = {
     ROOTERS: [
         "719117042904727635"
     ],
-    ECONOMY: "MTIwNzA2Mjc5OTM1MjYwMjY5Ng.G1lhTz.0T7eFTfpCB06vlV6_ct0lGFLYN27qo6B8P5Vig",
+    ECONOMY: "MTIwNzA2Mjc5OTM1MjYwMjY5NgAC",
     CHANNELS: {
         chatKanalı: "id",
         mağazaLog: "id"
